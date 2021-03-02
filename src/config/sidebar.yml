@@ -88,6 +88,14 @@
   items:
     - label: 'クラスを作ってみよう'
       link: '/day21/make-class'
+- label: 22日目
+  items:
+    - label: 'コンストラクタを使おう'
+      link: '/day22/constructor-of-instance'
+- label: 23日目
+  items:
+    - label: 'this キーワードを使おう'
+      link: '/day23/this-of-instance'
 - label: Usage
   items:
     - label: 'Creating docs'
@@ -98,11 +106,11 @@
       link: '/usage/shadowing'
 - label: More
   items:
-    - label: FAQ
+    - label: よくある質問
       link: /faq
-    - label: Changelog
+    - label: 変更履歴
       link: /changelog
 - label: Community
   items:
     - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+      link: https://github.com/fs5013-furi-sutao/java-zero-to-one
