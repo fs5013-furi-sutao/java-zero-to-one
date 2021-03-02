@@ -5,9 +5,8 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/getting-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/day01/develop-env</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/usage/creating-docs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/usage/navigation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/day02/print-variables</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/usage/shadowing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/day04/print-with-format</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/day05/input-numeric</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-zero-to-one/java-zero-to-one/day03/print-without-new-line</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
