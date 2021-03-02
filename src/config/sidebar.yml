@@ -1,6 +1,6 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: 'ようこそ Java ゼロイチ養成ドリルへ'
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
