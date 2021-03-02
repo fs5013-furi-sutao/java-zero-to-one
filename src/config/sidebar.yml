@@ -28,6 +28,10 @@
   items:
     - label: '文字列の入力をしよう'
       link: '/day06/input-string'
+- label: 7日目
+  items:
+    - label: 'if-then 文を使おう'
+      link: '/day07/if-then'
 - label: Usage
   items:
     - label: 'Creating docs'
