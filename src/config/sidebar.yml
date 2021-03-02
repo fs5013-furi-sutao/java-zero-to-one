@@ -16,6 +16,10 @@
   items:
     - label: '文字列を改行させずに出力をしよう'
       link: '/day03/print-without-new-line'
+- label: 4日目
+  items:
+    - label: '文字列に変数の内容を埋め込んで出力をしよう'
+      link: '/day04/print-with-format'
 - label: Usage
   items:
     - label: 'Creating docs'
