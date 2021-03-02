@@ -32,6 +32,62 @@
   items:
     - label: 'if-then 文を使おう'
       link: '/day07/if-then'
+- label: 8日目
+  items:
+    - label: 'if-then-else 文を使おう'
+      link: '/day08/if-then-else'
+- label: 9日目
+  items:
+    - label: 'if-else-if 文を使おう'
+      link: '/day09/if-else-if'
+- label: 10日目
+  items:
+    - label: 'switch 文を使おう'
+      link: '/day10/switch-statement'
+- label: 11日目
+  items:
+    - label: 'for ループを使おう'
+      link: '/day11/for-loop'
+- label: 12日目
+  items:
+    - label: '配列を使おう'
+      link: '/day12/array'
+- label: 13日目
+  items:
+    - label: 'for-each ループ（拡張 for 文）を使おう'
+      link: '/day13/for-each-loop'
+- label: 14日目
+  items:
+    - label: 'while ループを使おう'
+      link: '/day14/while-loop'
+- label: 15日目
+  items:
+    - label: 'break 文を使おう'
+      link: '/day15/break-statement'
+- label: 16日目
+  items:
+    - label: 'continue 文を使おう'
+      link: '/day16/continue-statement'
+- label: 17日目
+  items:
+    - label: 'リストを使おう'
+      link: '/day17/list'
+- label: 18日目
+  items:
+    - label: 'Static メソッドを使おう'
+      link: '/day18/static-method'
+- label: 19日目
+  items:
+    - label: 'インスタンスメソッドを使おう'
+      link: '/day19/instance-method'
+- label: 20日目
+  items:
+    - label: 'クラスを使ってみよう'
+      link: '/day20/use-class'
+- label: 21日目
+  items:
+    - label: 'クラスを作ってみよう'
+      link: '/day21/make-class'
 - label: Usage
   items:
     - label: 'Creating docs'
