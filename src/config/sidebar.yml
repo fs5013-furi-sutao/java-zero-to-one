@@ -20,6 +20,14 @@
   items:
     - label: '文字列に変数の内容を埋め込んで出力をしよう'
       link: '/day04/print-with-format'
+- label: 5日目
+  items:
+    - label: '数字の入力をしよう'
+      link: '/day05/input-numeric'
+- label: 6日目
+  items:
+    - label: '文字列の入力をしよう'
+      link: '/day06/input-string'
 - label: Usage
   items:
     - label: 'Creating docs'
