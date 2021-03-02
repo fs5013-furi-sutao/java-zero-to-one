@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/java-zero-to-one",
+  pathPrefix: `/java-zero-to-one`,
   siteMetadata: {
     siteTitle: `Java ゼロイチ養成ドリル`,
     defaultTitle: `Java ゼロイチ養成ドリル`,

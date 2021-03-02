@@ -4,6 +4,18 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
+- label: 1日目
+  items:
+    - label: 'Java をコーディングできる環境を作ろう'
+      link: '/day01/develop-env'
+- label: 2日目
+  items:
+    - label: '変数を理解しよう・文字列の出力をしよう'
+      link: '/day02/print-variables'
+- label: 3日目
+  items:
+    - label: '文字列を改行させずに出力をしよう'
+      link: '/day03/print-without-new-line'
 - label: Usage
   items:
     - label: 'Creating docs'
