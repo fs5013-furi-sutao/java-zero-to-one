@@ -96,6 +96,38 @@
   items:
     - label: 'this キーワードを使おう'
       link: '/day23/this-of-instance'
+- label: 24日目
+  items:
+    - label: 'カプセル化しよう'
+      link: '/day24/encapsulation'
+- label: 25日目
+  items:
+    - label: 'クラスを追加しよう'
+      link: '/day25/add-new-class'
+- label: 26日目
+  items:
+    - label: '文字列を比較しよう'
+      link: '/day26/compare-strings'
+- label: 27日目
+  items:
+    - label: '一時変数を利用しよう'
+      link: '/day27/temporary-variables'
+- label: 28日目
+  items:
+    - label: '整数の桁数をカウントしよう'
+      link: '/day28/count-digits'
+- label: 29日目
+  items:
+    - label: '二重ループを使おう'
+      link: '/day29/double-loop'
+- label: 30日目
+  items:
+    - label: '要素の並び替えをしよう'
+      link: '/day30/sort-elements'
+- label: 31日目
+  items:
+    - label: '2 つの配列を連結させよう'
+      link: '/day31/concatenate-arrays'
 - label: Usage
   items:
     - label: 'Creating docs'
