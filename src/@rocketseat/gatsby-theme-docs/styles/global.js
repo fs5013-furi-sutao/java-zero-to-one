@@ -384,6 +384,14 @@ export default function GlobalStyle() {
         .css-cb14bb-Item a {
           padding: 0 10px !important;
         }
+
+        .teacher {
+          color: #9966cc;
+        }
+        .tea-dee::before {
+          color: #9966cc;
+          content: '@';
+        }
       `}
     />
   )
