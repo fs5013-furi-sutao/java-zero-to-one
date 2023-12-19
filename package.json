@@ -22,7 +22,7 @@
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^5.0.0"
   },
   "keywords": [
     "gatsby",
@@ -30,10 +30,10 @@
     "gatsby-starter"
   ],
   "scripts": {
-    "build": "gatsby build --prefix-paths",
-    "start": "gatsby develop",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby build --prefix-paths",
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby build --prefix-paths && gh-pages -d public"
   }
 }
