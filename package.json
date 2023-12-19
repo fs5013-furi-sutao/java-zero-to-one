@@ -30,10 +30,10 @@
     "gatsby-starter"
   ],
   "scripts": {
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby build --prefix-paths",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby build --prefix-paths",
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby build --prefix-paths && gh-pages -d public"
   }
 }
