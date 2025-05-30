@@ -1,3 +1,47 @@
+# 初期設定
+
+### マークダウンファイルのプレビュー確認
+1. コマンドパレッド
+2. Markdownを入力
+3. Markdown：プレビューを横に表示 を選択
+
+### ライブラリのインポート
+```bash
+yarn
+```
+### デバッグ実行
+```bash
+yarn start
+```
+
+[localhost](http://localhost:8000/)
+でサイトにアクセスできることを確認
+
+実行を停止
+```bash
+Ctrlキー + Cキー
+```
+
+## デプロイまでの流れ
+### git操作
+自アカウントで以下を実施
+1. ブランチを作成
+2. 変更内容をコミット
+3. 変更内容をプッシュ
+4. mainブランチに向けてプルリクエストを作成
+
+### デプロイ
+1. fs5013.furi.sutaoアカウントにてプルリクエストからmainへマージ
+2. mainブランチに切り替える
+3. デプロイコマンドを実行
+
+デプロイコマンド
+```bash
+yarn deploy
+```
+
+https://github.com/fs5013-furi-sutao/java-zero-to-one
+
 <p align="center">
   <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/theme-docs.svg" alt="A illustration of file that is the @rocketseat/gatsby-theme-docs logo" width="100">
 </p>
